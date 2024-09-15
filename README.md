@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realnamehiddenn" alt="realnamehiddenn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nilesh_s_j" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_s_j?logo=twitter&style=for-the-badge" alt="nilesh_s_j" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
